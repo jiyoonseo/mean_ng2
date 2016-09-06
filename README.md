@@ -9,9 +9,9 @@
 
 ### to start
 ```
- >> npm install
- >> npm run gulp
- >> npm start
+ >> :one:npm install
+ >> :two:npm run gulp
+ >> :three:npm start
 ```
 
 :boom: FYI, auto refresher is not installed yet.
