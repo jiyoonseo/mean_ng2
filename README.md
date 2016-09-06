@@ -1,11 +1,13 @@
-# mean_ng2
+# MEAN stack for Angular 2 (rc.5)
 
-## Barebone ver.1.0 for mean stack for Angular 2 (rc.5)
+### Structure of tree
+```
+|-root
+|---ver01
+```
 
->README.md
->-ver.1 (branch 'ver01')
 
-to start
+### to start
 ```
  >> npm install
  >> npm run gulp
