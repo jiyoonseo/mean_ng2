@@ -1,13 +1,13 @@
 # MEAN stack for Angular 2 (rc.5)
 
-:One: Structure of tree
+:one: Structure of tree
 ```
 |-root
 |--ver01
 ```
 
 
-:Two: to start
+:two: to start
 ```
  >> npm install
  >> npm run gulp
