@@ -5,9 +5,9 @@
 to start
 
 '''
->> npm install
->> npm run gulp
->> npm start
+ npm install
+ npm run gulp
+ npm start
 '''
 
 :boom: FYI, auto refresher is not installed yet.
