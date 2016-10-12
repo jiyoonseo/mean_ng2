@@ -1,10 +1,11 @@
-# MEAN stack for Angular 2 (rc.5)
+# MEAN stack for Angular 2 (Fin.ver)
 
 :one: Structure of tree
 ```
-|-root
-|--ver01
-|--loginFrontend
+|-root (rc.5)
+|--ver01 (rc.5)
+|--loginFrontend (rc.5)
+|--ng2-fin-inMean (Fin.ver) 
 ```
 
 
